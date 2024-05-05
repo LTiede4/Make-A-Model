@@ -1,0 +1,6 @@
+# ignore virtual environment
+.venv
+# ignore stuff inside MLTest that is user specific
+MLTesting/__pycache__
+MLTesting/results
+MLTesting/traincfg.yaml
